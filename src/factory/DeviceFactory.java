@@ -1,7 +1,6 @@
 package src.factory;
 
 
-
 public class DeviceFactory {
     public static Device createDevice(String type, String hue, int level, String status) {
         if (type.equalsIgnoreCase("light")) {

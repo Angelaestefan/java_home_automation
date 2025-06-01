@@ -41,6 +41,16 @@ Provides a single access point to initiate the system and perform operations.
 
 ---
 
+## Benefits
+
+- Improved modularity and separation of concerns.
+
+- Easy to extend system functionality (add more commands, devices, or systems).
+
+- Cleaner and centralized interaction via the Facade.
+
+- Simplified testing and maintenance.
+
 ## 🚀 How to Run
 
 1. Clone or download the project files.
